@@ -20,11 +20,11 @@ Online voting system will help to speed up the counting of ballots, reduce the c
 
 2.Adding voter details like: [ can be only done by admin]
 
-Name
-Age
-Gender
-Password
-Election he/she wants to vote for
+Name,
+Age,
+Gender,
+Password,
+Election he/she wants to vote for,
 
 3.Editing voter details [ can be done only by admin]
 
@@ -37,11 +37,11 @@ Election he/she wants to vote for
 
 6.Adding candidate details like [can only be done by admin]
 
-Name
-Age
-Gender
-Picture
-Election he/she wants to stand for
+Name,
+Age,
+Gender,
+Picture,
+Election he/she wants to stand for,
 
 7.Editing candidate details [can be done only by admin]
 
@@ -52,15 +52,15 @@ Election he/she wants to stand for
 
 
 10.Add election details like [can be done only by admin]
-Name of the election
-Date to cast vote for election
+Name of the election,
+Date to cast vote for election,
 
 11.Editing election details [can be done only by admin]
 
 12.Deleting election details [can be done only by admin]
 
 13.Viewing election details [can be done only by admin]
-![election login page](https://user-images.githubusercontent.com/55926498/167264404-b3a7856f-ff4e-4666-b774-0788267a5e85.PNG)ection details [can be done only by admin]
+![election login page](https://user-images.githubusercontent.com/55926498/167264404-b3a7856f-ff4e-4666-b774-0788267a5e85.PNG)
 
 
 14.Voter votes for the right candidate and the vote gets registered in the database , also throws an error to the voter if he/she tries to cast their vote twice
