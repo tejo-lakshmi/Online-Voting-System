@@ -25,6 +25,7 @@ Age
 Gender
 Password
 Election he/she wants to vote for
+
 3.Editing voter details [ can be done only by admin]
 
 4.Deleting voter details [ can be done only by admin]
@@ -41,6 +42,7 @@ Age
 Gender
 Picture
 Election he/she wants to stand for
+
 7.Editing candidate details [can be done only by admin]
 
 8.Deleting candidate details [can be done only by admin]
@@ -52,6 +54,7 @@ Election he/she wants to stand for
 10.Add election details like [can be done only by admin]
 Name of the election
 Date to cast vote for election
+
 11.Editing election details [can be done only by admin]
 
 12.Deleting election details [can be done only by admin]
